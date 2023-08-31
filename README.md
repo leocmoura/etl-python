@@ -1,2 +1,2 @@
 # etl-python
-ETL Python
+ETL Python com IA Generativa Bard.
